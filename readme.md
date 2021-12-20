@@ -1,6 +1,6 @@
 # stats preview card component
 
-este proyecto es creado para aprender sonbre las tecnologias
+Este proyecto es creado para aprender sobre las tecnología
 
 1. React
 2. Vite
@@ -8,8 +8,8 @@ este proyecto es creado para aprender sonbre las tecnologias
 
 ## desktop
 
-![alt](./doc/img1.png)
+![desktop](./doc/img1.png)
 
 ## mobile
 
-![alt](./doc/img2.png)
+![mobile](./doc/img2.png)
